@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jônatas Alves da Silva Melo</h1>
 <h3 align="center">Web developer and technology lover</h3>
 
-- 🔭 I’m currently working on **NewWat**
+- 🔭 I’m currently working on **NewWay**
 
 - 🌱 I’m currently learning **TypeScript, React and To relax my mind, data Science :)**
 
