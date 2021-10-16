@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jônatas Alves</h1>
-<h3 align="center">Web developer and technology lover</h3>
+<h3 align="center">Mobile developer and technology lover</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonatasalves9&label=Profile%20views&color=99d8ff&style=plastic" alt="jonatasalves9" /> </p>
 
