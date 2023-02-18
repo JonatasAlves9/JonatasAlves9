@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jônatas Alves</h1>
-<h3 align="center">Mobile developer and technology lover</h3>
+![Image](https://drive.google.com/uc?export=view&id=12d56GO_hbhB-utNdnxQ-0sAX4xKy9IBp)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonatasalves9&label=Profile%20views&color=99d8ff&style=plastic" alt="jonatasalves9" /> </p>
 
 - 🔭 I’m currently working at [Adasi Software](https://www.linkedin.com/company/adasi-software/)
 
