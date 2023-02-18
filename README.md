@@ -1,5 +1,4 @@
-![Image](https://drive.google.com/uc?export=view&id=12d56GO_hbhB-utNdnxQ-0sAX4xKy9IBp)
-
+![Image](https://drive.google.com/uc?export=view&id=1tnEDHsuhPESZZQUCjcML9Q0TJj870x3I)
 
 - 🔭 I’m currently working at [Adasi Software](https://www.linkedin.com/company/adasi-software/)
 
