@@ -9,3 +9,5 @@ Software Engineer.
 Welcome to my GitHub profile! I'm a software engineer passionate about web and mobile development technologies, with a deep interest in education and knowledge sharing.
 
 "In the world of software development, I firmly believe that success is born from a combination of continuous learning and unwavering persistence." 
+
+
